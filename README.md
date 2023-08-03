@@ -1,1 +1,1 @@
-# JAVA
+# JAVA Desktop application (Calculator)
